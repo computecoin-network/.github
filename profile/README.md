@@ -1,8 +1,7 @@
-# Computecoin
+# Oort
 
-**Computecoin**
+**The Web3 Data Infrastructure**
 
-Computecoin empowers your journey into Web 3.0.  Web 3.0 protocols and infrastructure can be complex and irritating to use.  Computecoin offers a suite
-of solutions for consumers and businesses to integrate into storage solutions and compute solutions.  
+Oort is the data infrastructure for the next billion Web3 users. Featuring a user-centric design, Oort offers full-service decentralized data solutions that developers and users can quickly master without knowing a thing about Web3.
 
 The following repositories will give you access to use our propitery blockchain for interaction.  We are an EVM compatiable chain.  
