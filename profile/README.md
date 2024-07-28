@@ -26,7 +26,7 @@ The Olympus Protocol is a proprietary blockchain technology of OORT that can be 
 
 <a href="https://cointelegraph.com/press-releases/dell-unveils-innovative-loyalty-program-in-japan-with-oort">***Dell Unveils Innovative Loyalty Program in Japan with OORT***</a>
 
-Dell Technologies has announced the expansion of its latest global loyalty program to Japan on Jan 18, 2024, following successful launches in Canada and the United States in 2023 (43 kB)
+Dell Technologies has announced the expansion of its latest global loyalty program to Japan on Jan 18, 2024, following successful launches in Canada and the United States in 2023.
 
 <a href="https://blockster.com/lenovo-image-enhances-customer-support-with-oort-ai-integration">***Lenovo Image Enhances Customer Support with Oort AI Integration***</a>
 
